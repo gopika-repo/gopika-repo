@@ -2,6 +2,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Gomathi%20D&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=GenAI%20Builder%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Research%20Enthusiast&descSize=18&descAlignY=55&descAlign=50" alt="Header banner"/>
 
+### Designing calm, sharp, production-minded software
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=110&lines=Building+agentic+AI+systems;Designing+clean+full-stack+experiences;Turning+ideas+into+production+software" alt="Typing banner" />
 </a>
@@ -41,10 +43,12 @@ I build AI-first products and polished web interfaces with a focus on clarity, s
 </td>
 <td width="32%" valign="top" align="center">
 
-<img src="assets/WhatsApp%20Image%202026-06-10%20at%205.19.23%20PM.jpeg" width="280" alt="Anime-style profile picture" />
+<div style="padding:16px;border:1px solid #2b2f3a;border-radius:22px;background:linear-gradient(180deg,#121826 0%,#0b0f19 100%);box-shadow:0 18px 40px rgba(0,0,0,0.35);">
+<img src="assets/WhatsApp%20Image%202026-06-10%20at%205.19.23%20PM.jpeg" width="280" alt="Anime-style profile picture" style="border-radius:18px;display:block;" />
+</div>
 
 <br/>
-<sub>Your uploaded profile picture displayed directly in the README.</sub>
+<sub>Uploaded profile picture, framed to keep the header clean and professional.</sub>
 
 </td>
 </tr>
