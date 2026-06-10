@@ -141,6 +141,58 @@ I build AI-first products and polished web interfaces with a focus on clarity, s
 
 ---
 
+## Resume Highlights
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+  <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="84" alt="Certification animation" />
+</div>
+
+### Certifications
+
+<a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/">
+  <img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI Fundamentals" />
+</a>
+<a href="https://aws.amazon.com/certification/">
+  <img src="https://img.shields.io/badge/AWS-Foundations%20of%20Prompt%20Engineering-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Prompt Engineering" />
+</a>
+<a href="https://www.oracle.com/cloud/oci-training/">
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-Infrastructure%202025%20AI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI AI Foundations Associate" />
+</a>
+<a href="https://www.nxtwave.com/">
+  <img src="https://img.shields.io/badge/NxtWave-Building%20Static%20%26%20Responsive%20Websites-06B6D4?style=for-the-badge&logoColor=white" alt="NxtWave certificate" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="84" alt="Leadership animation" />
+</div>
+
+### Leadership & Activities
+
+<blockquote>
+  Volunteer coordinator. Placement-drive organizer. Team player who values clarity, reliability, and communication.
+</blockquote>
+
+- Volunteer at QCFI and college placement drives; managed logistics for 500+ participants.
+- Soft Skills: Critical Thinking, Active Learning, Teamwork, Communication.
+- Languages: English, Kannada, Hindi, Tamil.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180" alt="Animated tech divider" />
+</div>
+
+---
+
 ## Tech Motion
 
 <div align="center">
