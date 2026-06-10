@@ -1,13 +1,13 @@
 <div align="left">
 
-# G. Surya
+# Gomathi D
 
 <strong>Product GenAI Developer Intern</strong> at <a href="https://www.hidevs.com/">HiDevs</a> · Bengaluru, India
 
 > Building the layer between raw LLMs and the real world — agentic systems that reason, route, and ship.
 
 ```text
-surya = {
+gomathi_d = {
   "focus"   : ["Multi-Agent AI", "RAG Pipelines", "LLM R&D"],
   "stack"   : ["LangGraph", "CrewAI", "LangChain", "FastAPI"],
   "cloud"   : ["Oracle OCI", "Docker", "Render", "Vercel"],
