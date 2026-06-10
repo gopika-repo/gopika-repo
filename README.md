@@ -1,5 +1,14 @@
 <div align="left">
 
+<table>
+<tr>
+<td width="28%" valign="top" align="center">
+
+<img src="assets/WhatsApp Image 2026-06-10 at 5.19.23 PM.jpeg" width="220" alt="Gomathi D photo" />
+
+</td>
+<td width="72%" valign="top">
+
 # Gomathi D
 
 <strong>Product GenAI Developer Intern</strong> at <a href="https://www.hidevs.com/">HiDevs</a> · Bengaluru, India
@@ -16,6 +25,10 @@ gomathi_d = {
   "status"  : "open_to_collabs = True",
 }
 ```
+
+</td>
+</tr>
+</table>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
