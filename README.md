@@ -1,24 +1,33 @@
-<div align="center">
+<!-- Top hero: portrait first, dark 3-color gradient, animated accents -->
+<div align="center" style="background:linear-gradient(135deg,#0b1226 0%,#1e2a44 50%,#3b2f5a 100%);padding:24px;border-radius:14px;color:#c9d1d9;">
 
-<!-- Connect (moved to top) -->
-<div align="center">
-<a href="https://www.linkedin.com/in/gomathi-dhandapani-47435b35">
-  <img src="https://img.shields.io/badge/LinkedIn-Gomathi_Dhandapani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:gomathid354@gmail.com">
-  <img src="https://img.shields.io/badge/Email-gomathid354%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/gopika-repo">
-  <img src="https://img.shields.io/badge/GitHub-gopika--repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<table width="100%"><tr>
+<td width="28%" valign="top" align="center">
+  <div style="padding:8px;border-radius:12px;background:linear-gradient(180deg,rgba(255,255,255,0.03),rgba(255,255,255,0.01));display:inline-block;">
+    <img src="assets/WhatsApp%20Image%202026-06-10%20at%205.19.23%20PM.jpeg" width="300" alt="Gomathi D photo" style="border-radius:12px;display:block;box-shadow:0 12px 30px rgba(0,0,0,0.6);" />
+  </div>
+  <br/>
+  <div style="opacity:0.9"> <img src="https://komarev.com/ghpvc/?username=gopika-repo&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/></div>
+</td>
+<td width="72%" valign="middle" align="left" style="padding-left:20px;">
+  <h1 style="margin:0;color:#ffffff;font-size:36px">Gomathi D</h1>
+  <p style="margin:6px 0 12px 0;color:#dbeafe;font-size:16px"><strong>GenAI Builder</strong> | Full-Stack Developer | AI Research Enthusiast · Bengaluru, India</p>
 
-<br/><br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=90&lines=Building+agentic+AI+systems;Designing+clean+full-stack+experiences;Turning+ideas+into+production+software" alt="Typing banner" />
+  </a>
+
+  <br/>
+  <div>
+    <a href="https://www.linkedin.com/in/gomathi-dhandapani-47435b35"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+    <a href="mailto:gomathid354@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email"/></a>
+    <a href="https://github.com/gopika-repo"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  </div>
+
+</td>
+</tr></table>
 
 </div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Gomathi%20D&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=GenAI%20Builder%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Research%20Enthusiast&descSize=18&descAlignY=55&descAlign=50" alt="Header banner"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=860&height=110&lines=Building+agentic+AI+systems;Designing+clean+full-stack+experiences;Turning+ideas+into+production+software" alt="Typing banner" />
@@ -170,32 +179,96 @@ Computer Science Engineering student with hands-on experience building and deplo
 </p>
 
 </div>
+
+## Projects
+
+<div align="center" style="padding:10px;margin-top:12px">
+
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/gopika-repo/Audit_AI">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=gopika-repo&repo=Audit_AI&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9" alt="Audit_AI" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/gopika-repo/AI-Agent_Builder">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=gopika-repo&repo=AI-Agent_Builder&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9" alt="AI-Agent_Builder" />
-</a>
-
-</td>
+  <td width="50%" valign="top">
+    <a href="https://github.com/gopika-repo/AI-Agent_Builder">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=gopika-repo&repo=AI-Agent_Builder&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9" alt="AI-Agent_Builder" />
+    </a>
+  </td>
+  <td width="50%" valign="top">
+    <a href="https://github.com/gopika-repo/Anudip_project">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=gopika-repo&repo=Anudip_project&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9" alt="Anudip_project" />
+    </a>
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+    <a href="https://github.com/gopika-repo/Audit_AI">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=gopika-repo&repo=Audit_AI&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9" alt="Audit_AI" />
+    </a>
+  </td>
+  <td width="50%" valign="top">
+    <a href="https://github.com/gopika-repo/CodeReviewer">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=gopika-repo&repo=CodeReviewer&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9" alt="CodeReviewer" />
+    </a>
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+    <a href="https://github.com/gopika-repo/fake-news-detector">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=gopika-repo&repo=fake-news-detector&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9" alt="fake-news-detector" />
+    </a>
+  </td>
+  <td width="50%" valign="top">
+    <a href="https://github.com/gopika-repo/gopika-repo">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=gopika-repo&repo=gopika-repo&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9" alt="gopika-repo" />
+    </a>
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+    <a href="https://github.com/gopika-repo/HACK2HIRE_1.0">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=gopika-repo&repo=HACK2HIRE_1.0&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9" alt="HACK2HIRE_1.0" />
+    </a>
+  </td>
+  <td width="50%" valign="top">
+    <a href="https://github.com/gopika-repo/HandGestureControl">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=gopika-repo&repo=HandGestureControl&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9" alt="HandGestureControl" />
+    </a>
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+    <a href="https://github.com/gopika-repo/helios-ai-agent">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=gopika-repo&repo=helios-ai-agent&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9" alt="helios-ai-agent" />
+    </a>
+  </td>
+  <td width="50%" valign="top">
+    <a href="https://github.com/gopika-repo/jessie">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=gopika-repo&repo=jessie&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9" alt="jessie" />
+    </a>
+  </td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+    <a href="https://github.com/gopika-repo/Jessie_The_MCP_Agent">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=gopika-repo&repo=Jessie_The_MCP_Agent&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9" alt="Jessie_The_MCP_Agent" />
+    </a>
+  </td>
+  <td width="50%" valign="top"></td>
 </tr>
 </table>
 
 <details>
-<summary><b>Click-through project links</b></summary>
-
+<summary><b>All public repositories</b></summary>
 <ul>
-  <li><a href="https://github.com/gopika-repo/gopika-repo">gopika-repo</a></li>
+  <li><a href="https://github.com/gopika-repo/AI-Agent_Builder">AI-Agent_Builder</a></li>
   <li><a href="https://github.com/gopika-repo/Anudip_project">Anudip_project</a></li>
   <li><a href="https://github.com/gopika-repo/Audit_AI">Audit_AI</a></li>
-  <li><a href="https://github.com/gopika-repo/AI-Agent_Builder">AI-Agent_Builder</a></li>
+  <li><a href="https://github.com/gopika-repo/CodeReviewer">CodeReviewer</a></li>
+  <li><a href="https://github.com/gopika-repo/fake-news-detector">fake-news-detector</a></li>
+  <li><a href="https://github.com/gopika-repo/gopika-repo">gopika-repo</a></li>
+  <li><a href="https://github.com/gopika-repo/HACK2HIRE_1.0">HACK2HIRE_1.0</a></li>
+  <li><a href="https://github.com/gopika-repo/HandGestureControl">HandGestureControl</a></li>
+  <li><a href="https://github.com/gopika-repo/helios-ai-agent">helios-ai-agent</a></li>
+  <li><a href="https://github.com/gopika-repo/jessie">jessie</a></li>
+  <li><a href="https://github.com/gopika-repo/Jessie_The_MCP_Agent">Jessie_The_MCP_Agent</a></li>
 </ul>
 
 </details>
