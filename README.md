@@ -1,5 +1,23 @@
 <div align="center">
 
+<!-- Connect (moved to top) -->
+<div align="center">
+<a href="https://www.linkedin.com/in/gomathi-dhandapani-47435b35">
+  <img src="https://img.shields.io/badge/LinkedIn-Gomathi_Dhandapani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:gomathid354@gmail.com">
+  <img src="https://img.shields.io/badge/Email-gomathid354%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/gopika-repo">
+  <img src="https://img.shields.io/badge/GitHub-gopika--repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+</div>
+
+<br/>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Gomathi%20D&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=GenAI%20Builder%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Research%20Enthusiast&descSize=18&descAlignY=55&descAlign=50" alt="Header banner"/>
 
 <a href="https://git.io/typing-svg">
@@ -206,8 +224,6 @@ gomathi_d:
 
 <br/><br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=gopika-repo&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
 
 <div align="left">
@@ -303,14 +319,20 @@ Public repositories:
 
 ## Connect
 
-<p>
-  <a href="https://www.linkedin.com/in/gomathi-dhandapani-47435b35">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:gomathid354@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=gopika-repo&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/gomathi-dhandapani-47435b35">
+  <img src="https://img.shields.io/badge/LinkedIn-Gomathi_Dhandapani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:gomathid354@gmail.com">
+  <img src="https://img.shields.io/badge/Email-gomathid354%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/gopika-repo">
+  <img src="https://img.shields.io/badge/GitHub-gopika--repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+ 
 
 </div>
