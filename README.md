@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gopika-repo&bg_color=0d1117&color=7c3aed&line=38bdf8&point=f59e0b&area=true&area_color=7c3aed&hide_border=true" alt="Activity graph" />
+<img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="140" alt="Animated coding icon" />
 
 <br/>
 
@@ -23,20 +23,43 @@
 
 <table>
 <tr>
-<td width="68%" valign="top">
+<td width="58%" valign="top">
 
-## About
+## About Me
 
 I build AI-first products and polished web interfaces with a focus on clarity, speed, and practical outcomes. My current work sits at the intersection of GenAI, agent orchestration, and modern frontend engineering.
 
 <br/>
 
-**Current focus**
+<table>
+<tr>
+<td>
+
+**What I build**
 
 - Agentic workflows with LangGraph and LangChain
 - Retrieval systems, RAG, and vector search
 - FastAPI, React, Next.js, and TypeScript product builds
-- Clean UX patterns that feel professional, not noisy
+
+</td>
+<td>
+
+**What I care about**
+
+- Clean UX that feels intentional
+- Strong system design and execution
+- Polished details that make software feel premium
+
+</td>
+</tr>
+</table>
+
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gopika-repo&bg_color=0d1117&color=7c3aed&line=38bdf8&point=f59e0b&area=true&area_color=7c3aed&hide_border=true" alt="Activity graph" />
+
+<br/>
 
 **Open to**
 
@@ -47,7 +70,7 @@ I build AI-first products and polished web interfaces with a focus on clarity, s
 </td>
 <td width="32%" valign="top" align="center">
 
-<div style="padding:16px;border:1px solid #2b2f3a;border-radius:22px;background:linear-gradient(180deg,#121826 0%,#0b0f19 100%);box-shadow:0 18px 40px rgba(0,0,0,0.35);">
+<div style="padding:18px;border:1px solid #2b2f3a;border-radius:24px;background:linear-gradient(180deg,#121826 0%,#0b0f19 100%);box-shadow:0 18px 40px rgba(0,0,0,0.35);">
 <img src="assets/WhatsApp%20Image%202026-06-10%20at%205.19.23%20PM.jpeg" width="280" alt="Anime-style profile picture" style="border-radius:18px;display:block;" />
 </div>
 
