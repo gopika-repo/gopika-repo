@@ -146,23 +146,30 @@ Computer Science Engineering student with hands-on experience building and deplo
 
 ## Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center" style="background:linear-gradient(180deg,#071024,#081222);padding:14px;border-radius:14px;margin-bottom:12px">
 
-<a href="https://github.com/gopika-repo/gopika-repo">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=gopika-repo&repo=gopika-repo&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9" alt="gopika-repo" />
+<img src="https://skillicons.dev/icons?i=python,sql,pytorch,scikitlearn,huggingface,langchain,langgraph,ollama,opencv,mediapipe,chroma,qdrant,docker,fastapi,react,nextjs,electron,typescript,tailwind,oci,openai&theme=dark&perline=10" alt="Tech stack" />
+
+<br/><br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3600&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=860&height=40&lines=Multi-Agent+AI+·+RAG+Pipelines+·+LLM+R%26D;PyTorch+·+LangGraph+·+LangChain+·+FastAPI+·+Docker" alt="Core focuses typing" />
 </a>
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-<a href="https://github.com/gopika-repo/Anudip_project">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=gopika-repo&repo=Anudip_project&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9" alt="Anudip_project" />
-</a>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/HuggingFace-FF9900?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace" />
+  <img src="https://img.shields.io/badge/LangGraph-222222?style=for-the-badge&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LangChain-111111?style=for-the-badge&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
-</td>
-</tr>
+</div>
 <tr>
 <td width="50%" valign="top">
 
