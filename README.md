@@ -1,81 +1,84 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Gomathi%20D&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=GenAI%20Builder%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Research%20Enthusiast&descSize=18&descAlignY=55&descAlign=50" alt="Header banner"/>
-
-### Designing calm, sharp, production-minded software
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=110&lines=Building+agentic+AI+systems;Designing+clean+full-stack+experiences;Turning+ideas+into+production+software" alt="Typing banner" />
-</a>
-
-<br/>
-
-<img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="140" alt="Animated coding icon" />
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-gopika--repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gopika-repo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gomathi_Dhandapani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gomathi-dhandapani-47435b35)
-[![Email](https://img.shields.io/badge/Email-gomathid354%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gomathid354@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-111827?style=for-the-badge&logo=vercel&logoColor=white)](#)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" alt="Header banner"/>
 
 </div>
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="38%" valign="top" align="center">
 
-## About Me
-
-I build AI-first products and polished web interfaces with a focus on clarity, speed, and practical outcomes. My current work sits at the intersection of GenAI, agent orchestration, and modern frontend engineering.
+<img src="assets/WhatsApp%20Image%202026-06-10%20at%205.19.23%20PM.jpeg" width="280" alt="Anime-style profile picture" style="border-radius:12px;display:block;" />
 
 <br/>
 
-<table>
-<tr>
-<td>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gomathi-dhandapani-47435b35)
+[![Mail](https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gomathid354@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
-**What I build**
+<br/>
 
-- Agentic workflows with LangGraph and LangChain
-- Retrieval systems, RAG, and vector search
-- FastAPI, React, Next.js, and TypeScript product builds
+![Profile Views](https://komarev.com/ghpvc/?username=gopika-repo&color=7c3aed&style=for-the-badge&label=VISITORS)
 
 </td>
-<td>
+<td width="62%" valign="top">
 
-**What I care about**
+## G. Gomathi D
 
-- Clean UX that feels intentional
-- Strong system design and execution
-- Polished details that make software feel premium
+<p><b>GenAI Builder · Full-Stack Developer · AI Research Enthusiast</b></p>
+
+<blockquote>
+  Building the layer between raw LLMs and the real world - agentic systems that reason, route, and ship.
+</blockquote>
+
+<pre>
+gopika = {
+  "focus"   : ["Agentic AI", "RAG Systems", "LLM Apps"],
+  "stack"   : ["LangGraph", "LangChain", "FastAPI", "React"],
+  "cloud"   : ["Docker", "Vercel", "Qdrant"],
+  "status"  : "open_to_collabs = True",
+}
+</pre>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gopika-repo&bg_color=0d1117&color=7c3aed&line=38bdf8&point=f59e0b&area=true&area_color=7c3aed&hide_border=true" alt="Activity graph" />
 
 </td>
 </tr>
 </table>
 
+<div align="center">
 
-<br/>
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="110" alt="Coding animation" />
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="110" alt="Coding animation" />
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="110" alt="Tech animation" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gopika-repo&bg_color=0d1117&color=7c3aed&line=38bdf8&point=f59e0b&area=true&area_color=7c3aed&hide_border=true" alt="Activity graph" />
+</div>
 
-<br/>
+<table>
+<tr>
+<td width="33%" valign="top">
 
-**Open to**
+## About Me
+
+I build AI-first products and polished web interfaces with a focus on clarity, speed, and practical outcomes.
+
+</td>
+<td width="33%" valign="top">
+
+## What I Build
+
+- Agentic workflows
+- Retrieval systems
+- Full-stack AI products
+
+</td>
+<td width="33%" valign="top">
+
+## Open To
 
 - GenAI internships
 - Open source collaboration
 - Research-driven product work
-
-</td>
-<td width="32%" valign="top" align="center">
-
-<div style="padding:18px;border:1px solid #2b2f3a;border-radius:24px;background:linear-gradient(180deg,#121826 0%,#0b0f19 100%);box-shadow:0 18px 40px rgba(0,0,0,0.35);">
-<img src="assets/WhatsApp%20Image%202026-06-10%20at%205.19.23%20PM.jpeg" width="280" alt="Anime-style profile picture" style="border-radius:18px;display:block;" />
-</div>
-
-<br/>
-<sub>Uploaded profile picture, framed to keep the header clean and professional.</sub>
 
 </td>
 </tr>
