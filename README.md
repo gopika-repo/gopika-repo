@@ -30,7 +30,9 @@ surya = {
   <img src="https://img.shields.io/badge/Qdrant-DC382D?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
 </p>
 
-## Repositories
+## Projects
+
+Public repositories:
 
 <table>
 <tr>
@@ -66,6 +68,13 @@ surya = {
 </td>
 </tr>
 </table>
+
+<ul>
+  <li><a href="https://github.com/gopika-repo/gopika-repo">gopika-repo</a></li>
+  <li><a href="https://github.com/gopika-repo/Anudip_project">Anudip_project</a></li>
+  <li><a href="https://github.com/gopika-repo/Audit_AI">Audit_AI</a></li>
+  <li><a href="https://github.com/gopika-repo/AI-Agent_Builder">AI-Agent_Builder</a></li>
+</ul>
 
 ## Connect
 
