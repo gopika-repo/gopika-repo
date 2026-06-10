@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" alt="Header banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:121826,100:8b5cf6&height=10&section=header" alt="Top divider"/>
 
 </div>
 
@@ -8,17 +8,29 @@
 <tr>
 <td width="38%" valign="top" align="center">
 
-<img src="assets/WhatsApp%20Image%202026-06-10%20at%205.19.23%20PM.jpeg" width="280" alt="Anime-style profile picture" style="border-radius:12px;display:block;" />
+<a href="https://github.com/gopika-repo/gopika-repo">
+  <img src="assets/animated-portrait.svg" width="320" alt="Animated profile picture" />
+</a>
 
 <br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gomathi-dhandapani-47435b35)
-[![Mail](https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gomathid354@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=gopika-repo&color=7c3aed&style=for-the-badge&label=VISITORS)
+<a href="https://github.com/gopika-repo/gopika-repo">
+  <img src="https://img.shields.io/badge/status-building-111827?style=for-the-badge&labelColor=0f172a&color=38bdf8" alt="Status building" />
+</a>
+
+<br/>
+<br/>
+
+<a href="https://www.linkedin.com/in/gomathi-dhandapani-47435b350?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:gomathid354@gmail.com">
+  <img src="https://img.shields.io/badge/Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" />
+</a>
+<a href="https://visitorbadge.io/status?path=gopika-repo">
+  <img src="https://img.shields.io/badge/Visitors-111827?style=for-the-badge&logo=github&logoColor=white" alt="Visitors" />
+</a>
 
 </td>
 <td width="62%" valign="top">
@@ -40,19 +52,19 @@ gopika = {
 }
 </pre>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gopika-repo&bg_color=0d1117&color=7c3aed&line=38bdf8&point=f59e0b&area=true&area_color=7c3aed&hide_border=true" alt="Activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gopika-repo&bg_color=0d1117&color=7c3aed&line=38bdf8&point=f59e0b&area=true&area_color=7c3aed&hide_border=true&height=360" alt="Activity graph" />
+
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="96" alt="Coding animation" />
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="96" alt="Coding animation" />
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="96" alt="Tech animation" />
+</div>
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="110" alt="Coding animation" />
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="110" alt="Coding animation" />
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="110" alt="Tech animation" />
-
-</div>
 
 <table>
 <tr>
