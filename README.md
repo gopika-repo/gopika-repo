@@ -1,412 +1,84 @@
-<!-- Top hero: portrait first, dark 3-color gradient, animated accents -->
-<div align="center" style="background:linear-gradient(135deg,#0b1226 0%,#1e2a44 50%,#3b2f5a 100%);padding:24px;border-radius:14px;color:#c9d1d9;">
-
-<table width="100%"><tr>
-<td width="28%" valign="top" align="center">
-  <div style="padding:8px;border-radius:12px;background:linear-gradient(180deg,rgba(255,255,255,0.03),rgba(255,255,255,0.01));display:inline-block;">
-    <img src="assets/WhatsApp%20Image%202026-06-10%20at%205.19.23%20PM.jpeg" width="300" alt="Gomathi D photo" style="border-radius:12px;display:block;box-shadow:0 12px 30px rgba(0,0,0,0.6);" />
-  </div>
-  <br/>
-  <div style="opacity:0.9"> <img src="https://komarev.com/ghpvc/?username=gopika-repo&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/></div>
-</td>
-<td width="72%" valign="middle" align="left" style="padding-left:20px;">
-  <h1 style="margin:0;color:#ffffff;font-size:36px">Gomathi D</h1>
-  <p style="margin:6px 0 12px 0;color:#dbeafe;font-size:16px"><strong>GenAI Builder</strong> | Full-Stack Developer | AI Research Enthusiast · Bengaluru, India</p>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=90&lines=Building+agentic+AI+systems;Designing+clean+full-stack+experiences;Turning+ideas+into+production+software" alt="Typing banner" />
-  </a>
-
-  <br/>
-  <div>
-    <a href="https://www.linkedin.com/in/gomathi-dhandapani-47435b35"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-    <a href="mailto:gomathid354@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email"/></a>
-    <a href="https://github.com/gopika-repo"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-  </div>
-
-</td>
-</tr></table>
-
-</div>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=860&height=110&lines=Building+agentic+AI+systems;Designing+clean+full-stack+experiences;Turning+ideas+into+production+software" alt="Typing banner" />
-</a>
-
-<br/>
-
-<a href="https://github.com/gopika-repo">
-  <img src="https://img.shields.io/badge/status-building-7c3aed?style=for-the-badge&logo=githubactions&logoColor=white" alt="Status building" />
-</a>
-<a href="https://www.linkedin.com/in/gomathi-dhandapani-47435b35">
-  <img src="https://img.shields.io/badge/LinkedIn-Gomathi_Dhandapani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:gomathid354@gmail.com">
-  <img src="https://img.shields.io/badge/Email-gomathid354%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-</div>
-
-<table>
-<tr>
-<td width="68%" valign="top">
-
-## About
-
-Computer Science Engineering student with hands-on experience building and deploying multi-modal AI systems, autonomous agents, and end-to-end ML pipelines. Proficient in transformer-based architectures, computer vision (including OCR), and unstructured data processing. Passionate about implementing research papers and engineering production-grade AI systems using PyTorch, LangGraph, and MCP architectures.
-
-<br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=40&lines=Python+·+PyTorch+·+LangGraph+·+FastAPI+·+Docker+·+Qdrant" alt="Skills typing" />
-</a>
-
-### Technical Skills
-
-- Languages: Python, SQL
-- ML / AI Frameworks: PyTorch, Scikit-learn, HuggingFace Transformers, LangChain, LangGraph, Ollama
-- Computer Vision & OCR: OpenCV, MediaPipe, Multimodal Agent
-- MLOps & Deployment: Docker, FastAPI, ChromaDB, Qdrant, WebSocket Streaming
-- Architectures: RAG, LLM Orchestration, MCP
-- Web: React, Next.js, Electron, TypeScript, Tailwind CSS
-
-### Education
-
-- Bachelor of Engineering in Computer Science — T John Institute of Technology, Bangalore, India (2023 — 2027)
-  - CGPA: 8.6 / 10
-
-### Certifications & Leadership
-
-<table width="100%"><tr>
-<td width="50%" valign="top">
-
-<div style="padding:12px;border-radius:12px;background:linear-gradient(180deg,#071024,#081222);box-shadow:0 12px 30px rgba(11,15,25,0.6);">
-<h4 style="margin:0 0 8px 0">Certifications</h4>
-<p style="margin:0 0 8px 0">
-  <img src="https://img.shields.io/badge/Microsoft-Azure%20AI-0078D4?style=for-the-badge&logo=microsoft" alt="Azure Badge" />
-  <img src="https://img.shields.io/badge/AWS-Prompt%20Engineering-FF9900?style=for-the-badge&logo=amazon" alt="AWS Badge" />
-  <img src="https://img.shields.io/badge/Oracle-OCI-FF0000?style=for-the-badge&logo=oracle" alt="OCI Badge" />
-</p>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=420&height=90&lines=Microsoft+Certified:+Azure+AI+Fundamentals;Foundations+of+Prompt+Engineering+—+AWS;Oracle+Cloud+Infrastructure+2025+AI+Foundations+Associate;Building+Static+%26+Responsive+Websites+—+Nxtwave" alt="Certifications typing" />
-</a>
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<div style="padding:12px;border-radius:12px;background:linear-gradient(180deg,#071024,#081222);box-shadow:0 12px 30px rgba(11,15,25,0.6);">
-<h4 style="margin:0 0 8px 0">Leadership & Activities</h4>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=7c3aed&center=true&vCenter=true&repeat=true&width=420&height=110&lines=Volunteer+at+QCFi+and+college+placement+drives;+managed+logistics+for+500%2B+participants.;Soft+skills:+Critical+thinking,+Active+learning,+Teamwork,+Communication;Languages:+English,+Kannada,+Hindi,+Tamil" alt="Leadership typing" />
-</a>
-
-<ul style="margin-top:8px">
-  <li>Volunteer & event logistics (500+ participants)</li>
-  <li>Soft skills: Critical thinking, active learning, teamwork</li>
-  <li>Languages: English, Kannada, Hindi, Tamil</li>
-</ul>
-
-</div>
-
-</td>
-</tr></table>
-</td>
-<td width="32%" valign="top" align="center">
-
-<div style="padding:16px;border:1px solid #2b2f3a;border-radius:22px;background:linear-gradient(180deg,#121826 0%,#0b0f19 100%);box-shadow:0 18px 40px rgba(0,0,0,0.35);">
-<img src="assets/WhatsApp%20Image%202026-06-10%20at%205.19.23%20PM.jpeg" width="320" alt="Gomathi D photo" style="border-radius:18px;display:block;" />
-</div>
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="320" alt="tech animation" />
-</p>
-
----
-
-## Tech
-
-<div align="center" style="background:linear-gradient(180deg,#071024,#0b0f19);padding:12px;border-radius:12px">
-
-<img src="https://skillicons.dev/icons?i=python,typescript,java,react,nextjs,fastapi,docker,git,github,tailwind&theme=dark&perline=10" alt="Tech stack" />
-
-<br/><br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-222222?style=for-the-badge&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-5B21B6?style=for-the-badge&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![OCI](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC382D?style=for-the-badge&logo=qdrant&logoColor=white)
-
-</div>
-
----
-
-## Projects
-
-<div align="center" style="background:linear-gradient(180deg,#071024,#081222);padding:14px;border-radius:14px;margin-bottom:12px">
-
-<img src="https://skillicons.dev/icons?i=python,sql,pytorch,scikitlearn,huggingface,langchain,langgraph,ollama,opencv,mediapipe,chroma,qdrant,docker,fastapi,react,nextjs,electron,typescript,tailwind,oci,openai&theme=dark&perline=10" alt="Tech stack" />
-
-<br/><br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3600&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=860&height=40&lines=Multi-Agent+AI+·+RAG+Pipelines+·+LLM+R%26D;PyTorch+·+LangGraph+·+LangChain+·+FastAPI+·+Docker" alt="Core focuses typing" />
-</a>
-
-<br/>
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/HuggingFace-FF9900?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace" />
-  <img src="https://img.shields.io/badge/LangGraph-222222?style=for-the-badge&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/LangChain-111111?style=for-the-badge&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-</div>
-
-## Projects
-
-<div align="center" style="padding:10px;margin-top:12px">
-
-<table width="100%">
-<tr>
-  <td width="50%" valign="top">
-    <a href="https://github.com/gopika-repo/AI-Agent_Builder">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=gopika-repo&repo=AI-Agent_Builder&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9" alt="AI-Agent_Builder" />
-    </a>
-  </td>
-  <td width="50%" valign="top">
-    <a href="https://github.com/gopika-repo/Anudip_project">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=gopika-repo&repo=Anudip_project&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9" alt="Anudip_project" />
-    </a>
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-    <a href="https://github.com/gopika-repo/Audit_AI">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=gopika-repo&repo=Audit_AI&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9" alt="Audit_AI" />
-    </a>
-  </td>
-  <td width="50%" valign="top">
-    <a href="https://github.com/gopika-repo/CodeReviewer">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=gopika-repo&repo=CodeReviewer&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9" alt="CodeReviewer" />
-    </a>
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-    <a href="https://github.com/gopika-repo/fake-news-detector">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=gopika-repo&repo=fake-news-detector&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9" alt="fake-news-detector" />
-    </a>
-  </td>
-  <td width="50%" valign="top">
-    <a href="https://github.com/gopika-repo/gopika-repo">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=gopika-repo&repo=gopika-repo&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9" alt="gopika-repo" />
-    </a>
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-    <a href="https://github.com/gopika-repo/HACK2HIRE_1.0">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=gopika-repo&repo=HACK2HIRE_1.0&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9" alt="HACK2HIRE_1.0" />
-    </a>
-  </td>
-  <td width="50%" valign="top">
-    <a href="https://github.com/gopika-repo/HandGestureControl">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=gopika-repo&repo=HandGestureControl&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9" alt="HandGestureControl" />
-    </a>
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-    <a href="https://github.com/gopika-repo/helios-ai-agent">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=gopika-repo&repo=helios-ai-agent&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9" alt="helios-ai-agent" />
-    </a>
-  </td>
-  <td width="50%" valign="top">
-    <a href="https://github.com/gopika-repo/jessie">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=gopika-repo&repo=jessie&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9" alt="jessie" />
-    </a>
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
-    <a href="https://github.com/gopika-repo/Jessie_The_MCP_Agent">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=gopika-repo&repo=Jessie_The_MCP_Agent&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9" alt="Jessie_The_MCP_Agent" />
-    </a>
-  </td>
-  <td width="50%" valign="top"></td>
-</tr>
-</table>
-
-<details>
-<summary><b>All public repositories</b></summary>
-<ul>
-  <li><a href="https://github.com/gopika-repo/AI-Agent_Builder">AI-Agent_Builder</a></li>
-  <li><a href="https://github.com/gopika-repo/Anudip_project">Anudip_project</a></li>
-  <li><a href="https://github.com/gopika-repo/Audit_AI">Audit_AI</a></li>
-  <li><a href="https://github.com/gopika-repo/CodeReviewer">CodeReviewer</a></li>
-  <li><a href="https://github.com/gopika-repo/fake-news-detector">fake-news-detector</a></li>
-  <li><a href="https://github.com/gopika-repo/gopika-repo">gopika-repo</a></li>
-  <li><a href="https://github.com/gopika-repo/HACK2HIRE_1.0">HACK2HIRE_1.0</a></li>
-  <li><a href="https://github.com/gopika-repo/HandGestureControl">HandGestureControl</a></li>
-  <li><a href="https://github.com/gopika-repo/helios-ai-agent">helios-ai-agent</a></li>
-  <li><a href="https://github.com/gopika-repo/jessie">jessie</a></li>
-  <li><a href="https://github.com/gopika-repo/Jessie_The_MCP_Agent">Jessie_The_MCP_Agent</a></li>
-</ul>
-
-</details>
-
----
-
-## GitHub Pulse
-
 <div align="center">
 
-<a href="https://github.com/gopika-repo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gopika-repo&show_icons=true&theme=radical&bg_color=0d1117&border_color=7c3aed&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopika-repo&layout=compact&theme=radical&bg_color=0d1117&border_color=7c3aed&title_color=7c3aed&text_color=c9d1d9&langs_count=8" alt="Top languages"/>
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Gomathi%20D&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GenAI%20Builder%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20AI%20Research%20Enthusiast&descSize=17&descAlignY=58&descAlign=50" />
 
-<br/><br/>
+<br/>
 
-<a href="https://github.com/gopika-repo">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gopika-repo&theme=radical&background=0d1117&border=7c3aed&stroke=7c3aed&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8&sideLabels=7c3aed&dates=c9d1d9" alt="GitHub streak" />
-</a>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gopika-repo&bg_color=0d1117&color=7c3aed&line=38bdf8&point=f59e0b&area=true&hide_border=true" alt="Contribution graph" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/gopika-repo/gopika-repo/output/github-snake.svg" alt="Contribution snake" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gomathi_Dhandapani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gomathi-dhandapani-47435b35)
+[![Email](https://img.shields.io/badge/Email-gomathid354%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gomathid354@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-gopika--repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gopika-repo)
+[![Status](https://img.shields.io/badge/Status-Open%20to%20Collabs-7c3aed?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/gopika-repo)
 
 </div>
 
 ---
 
-## GitHub Checklist
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=760&height=70&lines=%E2%9C%85+Commit+early+and+often;%E2%9C%85+Use+clear+branch+naming;%E2%9C%85+Write+small+PRs+with+context;%E2%9C%85+Review+before+merging;%E2%9C%85+Keep+issues+and+README+updated" alt="Checklist animation" />
-</a>
-
 <table>
 <tr>
-<td>
-- [x] Commit early and often
-- [x] Use clear branch naming
-- [x] Write small PRs with context
-- [x] Review before merging
-- [x] Keep issues and README updated
-</td>
-</tr>
-</table>
+<td width="60%" valign="top">
 
----
+## `whoami`
 
-## Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/gomathi-dhandapani-47435b35">
-  <img src="https://img.shields.io/badge/LinkedIn-Gomathi_Dhandapani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:gomathid354@gmail.com">
-  <img src="https://img.shields.io/badge/Email-gomathid354%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/gopika-repo">
-  <img src="https://img.shields.io/badge/GitHub-gopika--repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-</div>
-
-<div align="left">
-
-<table>
-<tr>
-<td width="28%" valign="top" align="center">
-
-<img src="assets/WhatsApp Image 2026-06-10 at 5.19.23 PM.jpeg" width="260" alt="Gomathi D photo" />
-
-</td>
-<td width="72%" valign="top">
-
-# Gomathi D
-
-<strong>Product GenAI Developer Intern</strong> at <a href="https://www.hidevs.com/">HiDevs</a> · Bengaluru, India
-
-> Building the layer between raw LLMs and the real world — agentic systems that reason, route, and ship.
-
-```text
+```python
 gomathi_d = {
-  "focus"   : ["Multi-Agent AI", "RAG Pipelines", "LLM R&D"],
-  "stack"   : ["LangGraph", "CrewAI", "LangChain", "FastAPI"],
-  "cloud"   : ["Oracle OCI", "Docker", "Render", "Vercel"],
-  "edu"     : "B.E. CS @ TJIT (2023-2027)",
-  "location" : "Bengaluru, India IN",
-  "status"  : "open_to_collabs = True",
+    "role"     : "Product GenAI Developer Intern @ HiDevs",
+    "focus"    : ["Multi-Agent AI", "RAG Pipelines", "LLM R&D"],
+    "stack"    : ["LangGraph", "CrewAI", "LangChain", "FastAPI"],
+    "cloud"    : ["Oracle OCI", "Docker", "Render", "Vercel"],
+    "edu"      : "B.E. CS @ T John Institute of Technology (2023–2027)",
+    "location" : "Bengaluru, India 🇮🇳",
+    "status"   : "open_to_collabs = True",
 }
 ```
 
+> Building the layer between raw LLMs and the real world — agentic systems that reason, route, and ship.
+
+<br/>
+
+**CS Engineering student** with hands-on experience building and deploying multi-modal AI systems, autonomous agents, and end-to-end ML pipelines. Proficient in transformer-based architectures, computer vision (including OCR), and unstructured data processing. Passionate about implementing research papers and engineering production-grade AI systems.
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="assets/WhatsApp%20Image%202026-06-10%20at%205.19.23%20PM.jpeg" width="300" alt="Gomathi D" style="border-radius:20px;" />
+
 </td>
 </tr>
 </table>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/LangGraph-222222?style=for-the-badge&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/CrewAI-5B21B6?style=for-the-badge&logoColor=white" alt="CrewAI" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Qdrant-DC382D?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
-</p>
+---
 
-## Projects
+## 🛠 Tech Stack
 
-Public repositories:
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9900?style=for-the-badge&logo=huggingface&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-222222?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-111111?style=for-the-badge&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-5B21B6?style=for-the-badge&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC382D?style=for-the-badge&logoColor=white)
+![OCI](https://img.shields.io/badge/Oracle_OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,fastapi,docker,git,github,tailwind,pytorch&theme=dark&perline=10" alt="Tech icons" />
+
+</div>
+
+---
+
+## 🚀 Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/gopika-repo/gopika-repo">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=gopika-repo&repo=gopika-repo&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9" alt="gopika-repo" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/gopika-repo/Anudip_project">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=gopika-repo&repo=Anudip_project&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9" alt="Anudip_project" />
-</a>
-
-</td>
-</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -423,31 +95,111 @@ Public repositories:
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/gopika-repo/gopika-repo">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=gopika-repo&repo=gopika-repo&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9" alt="gopika-repo" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/gopika-repo/Anudip_project">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=gopika-repo&repo=Anudip_project&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9" alt="Anudip_project" />
+</a>
+
+</td>
+</tr>
 </table>
 
-<ul>
-  <li><a href="https://github.com/gopika-repo/gopika-repo">gopika-repo</a></li>
-  <li><a href="https://github.com/gopika-repo/Anudip_project">Anudip_project</a></li>
-  <li><a href="https://github.com/gopika-repo/Audit_AI">Audit_AI</a></li>
-  <li><a href="https://github.com/gopika-repo/AI-Agent_Builder">AI-Agent_Builder</a></li>
-</ul>
+---
 
-## Connect
+## 📊 GitHub Stats
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/gomathi-dhandapani-47435b35">
-  <img src="https://img.shields.io/badge/LinkedIn-Gomathi_Dhandapani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:gomathid354@gmail.com">
-  <img src="https://img.shields.io/badge/Email-gomathid354%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
 <a href="https://github.com/gopika-repo">
-  <img src="https://img.shields.io/badge/GitHub-gopika--repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=gopika-repo&show_icons=true&theme=radical&bg_color=0d1117&border_color=7c3aed&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+  &nbsp;
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopika-repo&layout=compact&theme=radical&bg_color=0d1117&border_color=7c3aed&title_color=7c3aed&text_color=c9d1d9&langs_count=8" />
 </a>
 
 <br/><br/>
 
- 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gopika-repo&theme=radical&background=0d1117&border=7c3aed&stroke=7c3aed&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8&sideLabels=7c3aed&dates=c9d1d9" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gopika-repo&bg_color=0d1117&color=7c3aed&line=38bdf8&point=f59e0b&area=true&hide_border=true" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/gopika-repo/gopika-repo/output/github-snake.svg" alt="Contribution snake" />
+
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🏫 Education**
+
+**Bachelor of Engineering — Computer Science**
+T John Institute of Technology, Bengaluru
+*(2023 – 2027)* · CGPA: **8.6 / 10**
+
+</td>
+<td width="50%" valign="top">
+
+**📜 Certifications**
+
+![Azure](https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals-0078D4?style=flat-square&logo=microsoft)
+![AWS](https://img.shields.io/badge/AWS-Foundations%20of%20Prompt%20Engineering-FF9900?style=flat-square&logo=amazon)
+![OCI](https://img.shields.io/badge/Oracle-OCI%202025%20AI%20Foundations-FF0000?style=flat-square&logo=oracle)
+![Nxtwave](https://img.shields.io/badge/Nxtwave-Static%20%26%20Responsive%20Websites-6C63FF?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 Languages & Soft Skills
+
+| Languages | Soft Skills |
+|-----------|-------------|
+| English · Kannada · Hindi · Tamil | Critical Thinking · Active Learning · Teamwork · Communication |
+
+---
+
+## ✅ GitHub Checklist
+
+```
+[✓] Commit early and often
+[✓] Use clear branch naming
+[✓] Write small PRs with context
+[✓] Review before merging
+[✓] Keep issues and README updated
+```
+
+---
+
+## 🤝 Leadership
+
+- Volunteer at **QCFi** and college placement drives — managed logistics for **500+ participants**
+- Active contributor to cross-functional teams in AI-first environments
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+*"Building the layer between raw LLMs and the real world."*
 
 </div>
