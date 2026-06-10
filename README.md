@@ -251,7 +251,7 @@
 
 <br/><br/>
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=gopika-repo&theme=github-dark&hide_border=true&custom_title=Contribution+Timeline&cache_seconds=3600" />
+<img width="92%" src="https://capsule-render.vercel.app/api?type=rect&color=0:05070f,50:111827,100:05070f&height=80&section=header&text=Contribution+Timeline&fontSize=28&fontColor=8B5CF6&animation=fadeIn" alt="Contribution timeline banner" />
 
 <br/>
 
