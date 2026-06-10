@@ -4,16 +4,7 @@
 
 </div>
 
-<table>
-<tr>
-<td width="38%" valign="top" align="center">
-
-<a href="https://github.com/gopika-repo/gopika-repo">
-  <img src="assets/animated-portrait.svg" width="320" alt="Animated profile picture" />
-</a>
-
-<br/>
-<br/>
+<div align="center">
 
 <a href="https://github.com/gopika-repo/gopika-repo">
   <img src="https://img.shields.io/badge/status-building-111827?style=for-the-badge&labelColor=0f172a&color=38bdf8" alt="Status building" />
@@ -22,7 +13,14 @@
 <br/>
 <br/>
 
-<a href="https://www.linkedin.com/in/gomathi-dhandapani-47435b350?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<a href="https://github.com/gopika-repo/gopika-repo">
+  <img src="assets/animated-portrait.svg" width="560" alt="Animated profile picture" />
+</a>
+
+<br/>
+<br/>
+
+<a href="https://www.linkedin.com/in/gomathi-dhandapani-350?utm_source=share_via&utm_content=profile&utm_medium=member_android">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:gomathid354@gmail.com">
@@ -32,39 +30,12 @@
   <img src="https://img.shields.io/badge/Visitors-111827?style=for-the-badge&logo=github&logoColor=white" alt="Visitors" />
 </a>
 
-</td>
-<td width="62%" valign="top">
-
-## G. Gomathi D
-
-<p><b>GenAI Builder · Full-Stack Developer · AI Research Enthusiast</b></p>
-
-<blockquote>
-  Building the layer between raw LLMs and the real world - agentic systems that reason, route, and ship.
-</blockquote>
-
-<pre>
-gopika = {
-  "focus"   : ["Agentic AI", "RAG Systems", "LLM Apps"],
-  "stack"   : ["LangGraph", "LangChain", "FastAPI", "React"],
-  "cloud"   : ["Docker", "Vercel", "Qdrant"],
-  "status"  : "open_to_collabs = True",
-}
-</pre>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gopika-repo&bg_color=0d1117&color=7c3aed&line=38bdf8&point=f59e0b&area=true&area_color=7c3aed&hide_border=true&height=360" alt="Activity graph" />
-
+<br/>
 <br/>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="96" alt="Coding animation" />
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="96" alt="Coding animation" />
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="96" alt="Tech animation" />
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gopika-repo&bg_color=0d1117&color=7c3aed&line=38bdf8&point=f59e0b&area=true&area_color=7c3aed&hide_border=true&height=420" alt="Activity graph" />
 
-</td>
-</tr>
-</table>
+</div>
 
 <table>
 <tr>
@@ -95,6 +66,12 @@ I build AI-first products and polished web interfaces with a focus on clarity, s
 </td>
 </tr>
 </table>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="96" alt="Coding animation" />
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="96" alt="Coding animation" />
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="96" alt="Tech animation" />
+</div>
 
 ---
 
