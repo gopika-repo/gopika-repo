@@ -44,28 +44,41 @@
 
 ## About
 
-I build AI-first products and polished web interfaces with a focus on clarity, speed, and practical outcomes.
+Computer Science Engineering student with hands-on experience building and deploying multi-modal AI systems, autonomous agents, and end-to-end ML pipelines. Proficient in transformer-based architectures, computer vision (including OCR), and unstructured data processing. Passionate about implementing research papers and engineering production-grade AI systems using PyTorch, LangGraph, and MCP architectures.
 
-```yaml
-gomathi_d:
-  role: Product GenAI Developer Intern
-  focus:
-    - Multi-Agent AI
-    - RAG Pipelines
-    - LLM R&D
-  stack:
-    - LangGraph
-    - CrewAI
-    - LangChain
-    - FastAPI
-  cloud:
-    - OCI
-    - Docker
-    - Render
-    - Vercel
-  location: Bengaluru, India
-  status: open_to_collabs
-```
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=40&lines=Python+·+PyTorch+·+LangGraph+·+FastAPI+·+Docker+·+Qdrant" alt="Skills typing" />
+</a>
+
+### Technical Skills
+
+- Languages: Python, SQL
+- ML / AI Frameworks: PyTorch, Scikit-learn, HuggingFace Transformers, LangChain, LangGraph, Ollama
+- Computer Vision & OCR: OpenCV, MediaPipe, Multimodal Agent
+- MLOps & Deployment: Docker, FastAPI, ChromaDB, Qdrant, WebSocket Streaming
+- Architectures: RAG, LLM Orchestration, MCP
+- Web: React, Next.js, Electron, TypeScript, Tailwind CSS
+
+### Education
+
+- Bachelor of Engineering in Computer Science — T John Institute of Technology, Bangalore, India (2023 — 2027)
+  - CGPA: 8.6 / 10
+
+### Certifications
+
+- Microsoft Certified: Azure AI Fundamentals
+- Foundations of Prompt Engineering — AWS
+- Oracle Cloud Infrastructure 2025 AI Foundations Associate
+- Building Static & Responsive Websites — Nxtwave
+
+### Leadership & Activities
+
+- Volunteer at QCFi and college placement drives; managed logistics for 500+ participants.
+- Soft skills: Critical thinking, active learning, teamwork, communication.
+- Languages: English, Kannada, Hindi, Tamil
+
 
 </td>
 <td width="32%" valign="top" align="center">
