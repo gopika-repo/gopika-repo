@@ -10,6 +10,10 @@
 
 <br/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gopika-repo&bg_color=0d1117&color=7c3aed&line=38bdf8&point=f59e0b&area=true&area_color=7c3aed&hide_border=true" alt="Activity graph" />
+
+<br/>
+
 [![GitHub](https://img.shields.io/badge/GitHub-gopika--repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gopika-repo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gomathi_Dhandapani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gomathi-dhandapani-47435b35)
 [![Email](https://img.shields.io/badge/Email-gomathid354%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gomathid354@gmail.com)
@@ -92,6 +96,20 @@ I build AI-first products and polished web interfaces with a focus on clarity, s
 
 ---
 
+## Tech Motion
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="220" alt="Coding animation" />
+&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="220" alt="Coding animation" />
+&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="220" alt="Tech animation" />
+
+</div>
+
+---
+
 ## Stack
 
 <div align="center">
@@ -113,47 +131,96 @@ I build AI-first products and polished web interfaces with a focus on clarity, s
 
 ---
 
-## Selected Work
+## Projects
 
-<details open>
-<summary><b>Multi-Modal Document Intelligence</b></summary>
+<div align="center">
 
-<br/>
+<a href="https://github.com/gopika-repo/multi-modal-document-intelligence">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gopika-repo&repo=multi-modal-document-intelligence&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9" alt="Multi-Modal Document Intelligence" />
+</a>
+<a href="https://github.com/gopika-repo/helios-ai-research-agent">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gopika-repo&repo=helios-ai-research-agent&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9" alt="Helios AI Research Agent" />
+</a>
 
-A multi-agent document understanding system designed for layout analysis, OCR, validation, and retrieval across structured content.
+<br/><br/>
 
-<br/>
+<a href="https://github.com/gopika-repo/HandGestureControl">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gopika-repo&repo=HandGestureControl&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9" alt="HandGestureControl" />
+</a>
+<a href="https://github.com/gopika-repo/Fake-News-Detector">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gopika-repo&repo=Fake-News-Detector&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9" alt="Fake News Detector" />
+</a>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00?style=flat-square&logoColor=white)
+<br/><br/>
 
-</details>
+<a href="https://github.com/gopika-repo/WhatsApp-Business-Dashboard">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gopika-repo&repo=WhatsApp-Business-Dashboard&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9" alt="WhatsApp Business Dashboard" />
+</a>
+<a href="https://github.com/gopika-repo/Money-Mate">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=gopika-repo&repo=Money-Mate&theme=radical&border_color=7c3aed&bg_color=0d1117&title_color=7c3aed&icon_color=38bdf8&text_color=c9d1d9" alt="Money-Mate" />
+</a>
 
-<details>
-<summary><b>Helios AI Research Agent</b></summary>
-
-<br/>
-
-An autonomous research assistant with live web retrieval, fast inference, and an interactive Streamlit interface.
-
-<br/>
-
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
-![Tavily](https://img.shields.io/badge/Tavily_API-4F46E5?style=flat-square&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>Money-Mate Dashboard</b></summary>
+</div>
 
 <br/>
 
-A modern finance dashboard built to make budgets, expense tracking, and analytics feel simple and approachable.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-</details>
+### Multi-Modal Document Intelligence
+- Multi-agent document workflow
+- OCR + layout + validation
+- Click the card above to open the repo
+
+</td>
+<td width="33%" valign="top">
+
+### Helios AI Research Agent
+- Live web research assistant
+- Fast AI inference workflows
+- Click the card above to open the repo
+
+</td>
+<td width="33%" valign="top">
+
+### HandGestureControl
+- Real-time hand tracking
+- Gesture-based interaction
+- Click the card above to open the repo
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Fake News Detector
+- NLP classification pipeline
+- Text preprocessing and modeling
+- Click the card above to open the repo
+
+</td>
+<td width="33%" valign="top">
+
+### WhatsApp Business Dashboard
+- Modern business UI
+- Analytics and chat flows
+- Click the card above to open the repo
+
+</td>
+<td width="33%" valign="top">
+
+### Money-Mate
+- Personal finance dashboard
+- Budget and expense analytics
+- Click the card above to open the repo
+
+</td>
+</tr>
+</table>
 
 ---
 
