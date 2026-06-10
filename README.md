@@ -241,9 +241,9 @@
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=gopika-repo&show_icons=true&hide_border=true&bg_color=0d0d1a&title_color=8b5cf6&icon_color=22d3ee&text_color=94a3b8&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Activity" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=gopika-repo&show_icons=true&hide_border=true&bg_color=0d0d1a&title_color=8b5cf6&icon_color=22d3ee&text_color=94a3b8&rank_icon=github&custom_title=Activity&cache_seconds=3600" />
 &nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopika-repo&layout=compact&hide_border=true&bg_color=0d0d1a&title_color=8b5cf6&text_color=94a3b8&langs_count=7&custom_title=Languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopika-repo&layout=compact&hide_border=true&bg_color=0d0d1a&title_color=8b5cf6&text_color=94a3b8&langs_count=7&custom_title=Languages&cache_seconds=3600" />
 
 <br/><br/>
 
@@ -251,7 +251,7 @@
 
 <br/><br/>
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=gopika-repo&bg_color=0d0d1a&color=94a3b8&line=1a1a2e&point=8b5cf6&area=true&area_color=8b5cf6&hide_border=true&radius=4&custom_title=Contribution+Timeline" />
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=gopika-repo&theme=github-dark&hide_border=true&custom_title=Contribution+Timeline&cache_seconds=3600" />
 
 <br/>
 
