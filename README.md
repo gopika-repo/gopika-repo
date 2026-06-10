@@ -66,20 +66,45 @@ Computer Science Engineering student with hands-on experience building and deplo
 - Bachelor of Engineering in Computer Science — T John Institute of Technology, Bangalore, India (2023 — 2027)
   - CGPA: 8.6 / 10
 
-### Certifications
+### Certifications & Leadership
 
-- Microsoft Certified: Azure AI Fundamentals
-- Foundations of Prompt Engineering — AWS
-- Oracle Cloud Infrastructure 2025 AI Foundations Associate
-- Building Static & Responsive Websites — Nxtwave
+<table width="100%"><tr>
+<td width="50%" valign="top">
 
-### Leadership & Activities
+<div style="padding:12px;border-radius:12px;background:linear-gradient(180deg,#071024,#081222);box-shadow:0 12px 30px rgba(11,15,25,0.6);">
+<h4 style="margin:0 0 8px 0">Certifications</h4>
+<p style="margin:0 0 8px 0">
+  <img src="https://img.shields.io/badge/Microsoft-Azure%20AI-0078D4?style=for-the-badge&logo=microsoft" alt="Azure Badge" />
+  <img src="https://img.shields.io/badge/AWS-Prompt%20Engineering-FF9900?style=for-the-badge&logo=amazon" alt="AWS Badge" />
+  <img src="https://img.shields.io/badge/Oracle-OCI-FF0000?style=for-the-badge&logo=oracle" alt="OCI Badge" />
+</p>
 
-- Volunteer at QCFi and college placement drives; managed logistics for 500+ participants.
-- Soft skills: Critical thinking, active learning, teamwork, communication.
-- Languages: English, Kannada, Hindi, Tamil
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=420&height=90&lines=Microsoft+Certified:+Azure+AI+Fundamentals;Foundations+of+Prompt+Engineering+—+AWS;Oracle+Cloud+Infrastructure+2025+AI+Foundations+Associate;Building+Static+%26+Responsive+Websites+—+Nxtwave" alt="Certifications typing" />
+</a>
 
+</div>
 
+</td>
+<td width="50%" valign="top">
+
+<div style="padding:12px;border-radius:12px;background:linear-gradient(180deg,#071024,#081222);box-shadow:0 12px 30px rgba(11,15,25,0.6);">
+<h4 style="margin:0 0 8px 0">Leadership & Activities</h4>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=7c3aed&center=true&vCenter=true&repeat=true&width=420&height=110&lines=Volunteer+at+QCFi+and+college+placement+drives;+managed+logistics+for+500%2B+participants.;Soft+skills:+Critical+thinking,+Active+learning,+Teamwork,+Communication;Languages:+English,+Kannada,+Hindi,+Tamil" alt="Leadership typing" />
+</a>
+
+<ul style="margin-top:8px">
+  <li>Volunteer & event logistics (500+ participants)</li>
+  <li>Soft skills: Critical thinking, active learning, teamwork</li>
+  <li>Languages: English, Kannada, Hindi, Tamil</li>
+</ul>
+
+</div>
+
+</td>
+</tr></table>
 </td>
 <td width="32%" valign="top" align="center">
 
