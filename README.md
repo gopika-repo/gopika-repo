@@ -4,7 +4,9 @@
 
 </div>
 
-<div align="center">
+<table>
+<tr>
+<td width="36%" valign="top" align="center">
 
 <a href="https://github.com/gopika-repo/gopika-repo">
   <img src="https://img.shields.io/badge/status-building-111827?style=for-the-badge&labelColor=0f172a&color=38bdf8" alt="Status building" />
@@ -14,7 +16,7 @@
 <br/>
 
 <a href="https://github.com/gopika-repo/gopika-repo">
-  <img src="assets/animated-portrait.svg" width="560" alt="Animated profile picture" />
+  <img src="assets/animated-portrait.svg" width="360" alt="Animated profile picture" />
 </a>
 
 <br/>
@@ -30,29 +32,63 @@
   <img src="https://img.shields.io/badge/Visitors-111827?style=for-the-badge&logo=github&logoColor=white" alt="Visitors" />
 </a>
 
-<br/>
+</td>
+<td width="64%" valign="top">
+
+## About Me
+
+I build AI-first products and polished web interfaces with a focus on clarity, speed, and practical outcomes. My current work sits at the intersection of GenAI, agent orchestration, and modern frontend engineering.
+
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gopika-repo&bg_color=0d1117&color=7c3aed&line=38bdf8&point=f59e0b&area=true&area_color=7c3aed&hide_border=true&height=420" alt="Activity graph" />
+**What I Build**
 
+- Agentic workflows
+- Retrieval systems
+- Full-stack AI products
+
+<br/>
+
+**Open To**
+
+- GenAI internships
+- Open source collaboration
+- Research-driven product work
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gopika-repo&bg_color=0d1117&color=7c3aed&line=38bdf8&point=f59e0b&area=true&area_color=7c3aed&hide_border=true&height=360" alt="Activity graph" />
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="96" alt="Coding animation" />
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="96" alt="Coding animation" />
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="96" alt="Tech animation" />
 </div>
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-## About Me
+## Snapshot
 
-I build AI-first products and polished web interfaces with a focus on clarity, speed, and practical outcomes.
+- Multi-agent systems
+- AI research assistants
+- Full-stack dashboards
+- Document intelligence
 
 </td>
 <td width="33%" valign="top">
 
-## What I Build
+## Learn
 
-- Agentic workflows
-- Retrieval systems
-- Full-stack AI products
+- Advanced LangGraph patterns
+- Vector database tuning
+- Production deployment
+- Better evaluation loops
 
 </td>
 <td width="33%" valign="top">
@@ -66,12 +102,6 @@ I build AI-first products and polished web interfaces with a focus on clarity, s
 </td>
 </tr>
 </table>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="96" alt="Coding animation" />
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="96" alt="Coding animation" />
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="96" alt="Tech animation" />
-</div>
 
 ---
 
