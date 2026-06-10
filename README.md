@@ -41,10 +41,10 @@ I build AI-first products and polished web interfaces with a focus on clarity, s
 </td>
 <td width="32%" valign="top" align="center">
 
-<img src="assets/anime-avatar.svg" width="280" alt="Anime-style profile illustration" />
+<img src="assets/WhatsApp%20Image%202026-06-10%20at%205.19.23%20PM.jpeg" width="280" alt="Anime-style profile picture" />
 
 <br/>
-<sub>A custom avatar inspired by your anime profile picture.</sub>
+<sub>Your uploaded profile picture displayed directly in the README.</sub>
 
 </td>
 </tr>
