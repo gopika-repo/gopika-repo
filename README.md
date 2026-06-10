@@ -71,25 +71,22 @@ gomathi_d:
 <td width="32%" valign="top" align="center">
 
 <div style="padding:16px;border:1px solid #2b2f3a;border-radius:22px;background:linear-gradient(180deg,#121826 0%,#0b0f19 100%);box-shadow:0 18px 40px rgba(0,0,0,0.35);">
-<img src="assets/WhatsApp%20Image%202026-06-10%20at%205.19.23%20PM.jpeg" width="280" alt="Gomathi D photo" style="border-radius:18px;display:block;" />
+<img src="assets/WhatsApp%20Image%202026-06-10%20at%205.19.23%20PM.jpeg" width="320" alt="Gomathi D photo" style="border-radius:18px;display:block;" />
 </div>
-
-<br/>
-<sub>Uploaded profile picture, framed to keep the header clean and professional.</sub>
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="260" alt="tech animation" />
+  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="320" alt="tech animation" />
 </p>
 
 ---
 
 ## Tech
 
-<div align="center">
+<div align="center" style="background:linear-gradient(180deg,#071024,#0b0f19);padding:12px;border-radius:12px">
 
 <img src="https://skillicons.dev/icons?i=python,typescript,java,react,nextjs,fastapi,docker,git,github,tailwind&theme=dark&perline=10" alt="Tech stack" />
 
@@ -232,7 +229,7 @@ gomathi_d:
 <tr>
 <td width="28%" valign="top" align="center">
 
-<img src="assets/WhatsApp Image 2026-06-10 at 5.19.23 PM.jpeg" width="220" alt="Gomathi D photo" />
+<img src="assets/WhatsApp Image 2026-06-10 at 5.19.23 PM.jpeg" width="260" alt="Gomathi D photo" />
 
 </td>
 <td width="72%" valign="top">
